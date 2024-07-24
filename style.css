@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: 1px solid black; */
+
+}
+
+body {
+    font-family: "Urbanist", sans-serif;
+    background-color: whitesmoke;
+    overflow-x: hidden;
+    width: 100vw;
+}
+
+.header {
+    width: 1184px;
+    height: 80px;
+    color: #ffffff;
+    display: flex;
+    flex-direction: row;
+}
+
+.pembungkus {
+    width: 1185px;
+    height: 80px;
+    left: 256px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.pembungkus1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+
+.search{
+    width: 352px;
+    height: 40px;
+    top: 20px;
+    left: 40px;
+
+}
+
+
+.side-bar {
+    width: 256px;
+    height: 1234px;
+    border: opx, 1px, 0px, 0px;
+}
+
+.E-learn_side-bar {
+    width: 90px;
+    height: 27px;
+    left: 50px;
+    text-decoration-color: #1c1c1c;
+}
+
+.side-bar1 {
+    width: 157px;
+    height: 45px;
+    top: 34px;
+    left:40px;
+}
+
+.all_bungkus {
+    display: flex;
+    gap: 10px;
+
+}
+
+.vn {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+
+.bungkus {
+    /* width: 734px;
+    height: 1072px;
+    top: 120px;
+    left: 292px; */
+    display: flex;
+    gap: 70px;
+    height: 1072px;
+    width: 734px;
+    
+}
+
+.video {
+
+    width: 352px;
+    height: 70px;
+    border-radius: 21px;
+    color: #ffffff;
+    
+    /* color: #f0f0f0; */
+    /* font-weight: 500px;
+    size: 21px;
+    line-height: 25px;
+    text-decoration: none;
+    font-family: "worksans"; */
+}
+
+.Drawing {
+    width:437px;
+    height:72px;
+    top:471px;
+    left: 4px;
+    color: black;
+}
+
+
+.bungkus2 {
+    width: 352px;
+    height: 430px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.video {
+    width: 147px;
+    height: 25px;
+    top: 25px;
+    left:20px;   
+    
+}
+
+
+.icons {
+
+    /* width:128px;
+    height: 32px;
+    top: 471px;
+    left: 804px;
+    border-radius: 10px; 
+    display: flex; */
+
+}
+
+
+
+.arrow {
+    /* /* width: 24px;
+    height:24ppx;
+    top:51px;
+    left:332px;
+    rotate: 180; */
+    /* display: flex;
+    flex-direction: column;
+    justify-content: flex-end; */
+     */
+
+} 
